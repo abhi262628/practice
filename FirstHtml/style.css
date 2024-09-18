@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body
+{
+    color: rgb(140, 140, 164);
+}
+main
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box1
+{ 
+    
+    background-color: rgb(191, 61, 61);
+}
+#box2
+{
+    background-color: rgb(54, 150, 57);
+}
+#box3
+{
+    background-color: rgb(135, 61, 191);
+}
+
